@@ -31,12 +31,6 @@ I build **cool websites**, explore **Web 3.0**, and occasionally talk to my code
 
 ---
 
-### 📊 GitHub Fun Stats
-![Alina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alina77miller-art&show_icons=true&theme=radical)
-![Alina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alina77miller-art&theme=radical)
-
----
-
 ### 🏆 Highlights & Projects
 - **[Interactive Portfolio](https://github.com/alina77miller-art)** – My shiny web playground ✨  
 - **[React Magic App](https://github.com/alina77miller-art)** – Fun, cute, and full of React spells 🪄  
