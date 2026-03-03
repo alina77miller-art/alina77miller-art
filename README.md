@@ -1,17 +1,17 @@
-## Hi there 👋 I'm Alina Miller ✨💻
+## Hi there! 👋 I'm Alina Miller 🌟
 
-A **Web Developer** | **Tech Enthusiast** | **Magic Coder** 🪄  
-I craft **dynamic, interactive websites**, explore **Web 3.0**, and code with **style, precision, and heart**.  
+I’m a **Web Developer** who likes **coding, coffee ☕, and chaos ✨**  
+I build **cool websites**, explore **Web 3.0**, and occasionally talk to my code 😅  
 
-- 🌱 Learning **Next.js, TailwindCSS, and advanced React patterns**  
-- 👩‍💻 Freelance Web Developer | Building **beautiful, shining web apps**  
-- ⚡ Fun fact: I always explore **new gadgets & cutting-edge tech**  
-- 💬 Ask me about **web development, Python, JS frameworks**, or life hacks  
-- 🧚‍♀️ Motto: *“Code with heart. Build with magic.”*  
+- 🌱 Currently learning **Next.js, TailwindCSS & React wizardry**  
+- 👩‍💻 Freelance Web Developer | Making websites that actually work  
+- ⚡ Fun fact: I once tried to code without coffee… it was tragic ☕💀  
+- 💬 Ask me about **web dev, Python, JS, life hacks**, or memes 🐱  
+- 🧚‍♀️ Motto: *“Keep coding, keep smiling, sprinkle some magic everywhere!”*
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech I Play With
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,34 +24,29 @@ I craft **dynamic, interactive websites**, explore **Web 3.0**, and code with **
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Where to Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alina-miller)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alina77miller-art)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.alinamiller.com)
 
 ---
 
-### 📊 GitHub Stats
-![Alina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alina77miller-art&show_icons=true&theme=dracula)
-![Alina's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alina77miller-art&theme=dracula)
+### 📊 GitHub Fun Stats
+![Alina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alina77miller-art&show_icons=true&theme=radical)
+![Alina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alina77miller-art&theme=radical)
 
 ---
 
-### ⚡ Fun & Fantastical Facts
-- 🧙‍♀️ I code like casting spells — every function is magical ✨  
-- 🌌 Dreaming of exploring the **Web 3.0 galaxies**  
-- 🪄 Life Hack: **Learn, share, shine**  
-- 🎨 Creativity + Code = ❤️  
+### 🏆 Highlights & Projects
+- **[Interactive Portfolio](https://github.com/alina77miller-art)** – My shiny web playground ✨  
+- **[React Magic App](https://github.com/alina77miller-art)** – Fun, cute, and full of React spells 🪄  
+- **[Node Wizardry](https://github.com/alina77miller-art)** – Backend magic (with some coffee ☕)  
 
 ---
 
-### 🏆 Projects / Highlights
-Check out my works:  
-- **[Interactive Portfolio](https://github.com/alina77miller-art)** – shining portfolio site  
-- **[React Magic App](https://github.com/alina77miller-art)** – fun React project  
-- **[Node Wizardry](https://github.com/alina77miller-art)** – backend magic with Node.js  
-
----
-
-### 📄 Resume
+### 📄 Grab My Resume
 [📥 Download Resume](https://github.com/alina77miller-art/resume/raw/main/resume.pdf)
+
+---
+
+💫 **Life motto:** *“Code hard, laugh harder, sprinkle a little magic everywhere!”* 😎✨
